@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khoi Nguyen
 - 👀 I’m interested in coding and STEM
-- 🌱 I’m currently a student at the Mater Dei High Schoo,
-- 📫 How to reach me: nguyenk.262@stu.materdei.org
+- 🌱 I’m currently a student at the Mater Dei High School,
+- 📫 How to reach me: nguyenk.262@stu.materdei.org / tuankhoi1506@gmail.com
 - 😄 Pronouns: he/ him  
 
 <!---
